@@ -1,8 +1,0 @@
-{
-    "display_name": "Output Word Replacer",
-    "plugin_id": "output_word_replacer",
-    "version": "1.0.0",
-    "author": "znq19",
-    "description": "在AI输出前替换指定词汇，例如将'星月'替换为'星师傅'。",
-    "repo": null
-}
