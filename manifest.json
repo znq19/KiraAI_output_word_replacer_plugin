@@ -4,5 +4,5 @@
     "version": "1.0.0",
     "author": "znq19",
     "description": "在AI输出前替换指定词汇，例如将'星月'替换为'星师傅'。",
-    "repo": null
+    "repo": "https://github.com/znq19/KiraAI_output_word_replacer_plugin"
 }
